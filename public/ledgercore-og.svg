@@ -1,0 +1,32 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ogTitle ogDesc">
+  <title id="ogTitle">LedgerCore Banking Preview</title>
+  <desc id="ogDesc">Open graph banner for LedgerCore Banking dashboard.</desc>
+  <defs>
+    <linearGradient id="ogGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f4c81" />
+      <stop offset="60%" stop-color="#136f9c" />
+      <stop offset="100%" stop-color="#1da1f2" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogGrad)" rx="48" />
+  <rect x="120" y="150" width="960" height="330" rx="32" fill="url(#cardGrad)" stroke="rgba(255,255,255,0.25)" />
+  <text x="160" y="240" fill="#ffffff" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="72" font-weight="700">
+    LedgerCore Banking
+  </text>
+  <text x="160" y="305" fill="#e2e8f0" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="32">
+    Secure Core Banking • Customer • Account • Ledger • Transactions
+  </text>
+  <text x="160" y="360" fill="#cbd5f5" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="26">
+    Real-time dashboards, rigorous audit trails, and modern admin tooling.
+  </text>
+  <g transform="translate(160 400)">
+    <circle cx="32" cy="32" r="32" fill="rgba(255,255,255,0.15)" />
+    <rect x="90" y="18" width="180" height="28" rx="14" fill="rgba(15,76,129,0.35)" />
+    <rect x="90" y="58" width="240" height="18" rx="9" fill="rgba(255,255,255,0.35)" />
+  </g>
+</svg>
+

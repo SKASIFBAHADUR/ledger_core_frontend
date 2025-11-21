@@ -1,0 +1,23 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">LedgerCore Banking Icon</title>
+  <desc id="desc">Stylized shield with letter L for LedgerCore Banking.</desc>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f4c81" />
+      <stop offset="100%" stop-color="#1da1f2" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#grad)" />
+  <path
+    d="M44 28h40c3.3 0 6 2.7 6 6v60c0 3.3-2.7 6-6 6H64L44 120V34c0-3.3 2.7-6 6-6z"
+    fill="rgba(255,255,255,0.15)"
+  />
+  <path
+    d="M48 36h12v40h24v12H48z"
+    fill="#ffffff"
+    stroke="#ffffff"
+    stroke-width="4"
+    stroke-linejoin="round"
+  />
+</svg>
+
