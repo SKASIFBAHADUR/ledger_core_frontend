@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { getAccessToken, setAccessToken, clearAccessToken } from '../utils/tokenStorage'
 
-const API_BASE_URL = 'http://localhost:8080'
+const API_BASE_URL = 'https://ledger-core-backend.onrender.com'
 
 const api = axios.create({
   baseURL: API_BASE_URL,
